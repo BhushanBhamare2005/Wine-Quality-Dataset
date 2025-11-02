@@ -109,3 +109,14 @@ Although this dataset does not involve personal or demographic data, it’s stil
 
 ## 👨‍💻 How to Run
 Click to above link https://colab.research.google.com/drive/1ca1PZ_3-RH-LpPWCzd89MPRj29dSs6rC?usp=sharing
+
+
+## 🧑‍🎓 Author
+
+Name: BHUSHAN YOGESH BHAMARE
+
+Course: Artifical Intelligence
+
+Instructor: Mrs ANITA SHINGADE
+
+Date: 2 November 2025
