@@ -97,16 +97,6 @@ Although this dataset does not involve personal or demographic data, it’s stil
 
 ---
 
-## 📁 Files in Repository
-
-| File Name | Description |
-|------------|-------------|
-| `Feature_Engineering_WineQuality.ipynb` | Main Jupyter Notebook with all preprocessing steps |
-| `Feature_Engineering_Report.pdf` | 1–2 page summary of the work |
-| `README.md` | Documentation and ethical notes |
-
----
-
 ## 👨‍💻 How to Run
 Click to above link https://colab.research.google.com/drive/1ca1PZ_3-RH-LpPWCzd89MPRj29dSs6rC?usp=sharing
 
